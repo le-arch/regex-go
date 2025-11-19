@@ -306,7 +306,7 @@ Run benchmarks:
 
 go test -bench=.
 
-```
+
 
 ---
 
@@ -320,9 +320,8 @@ This Go project demonstrates a complete regex engine supporting `.` and `*` usin
 Both approaches guarantee **O(m × n)** performance with full correctness.
 
 
-```
 
----
+
 
 
 
